@@ -1,2 +1,2 @@
 # Portfolio-webpage
-This is my take on Alex The Data Analyst's tutorial on how to make a webpage portfolio. This webpage is done with HTML and I hope it will create a better impression, and be easy on the eyes when describing projects for employers as I go through this job hunting phase during a time that the the tech industry is suffering.
+This is my take on Alex The Data Analyst's tutorial on how to make a webpage portfolio. This webpage is done with HTML with a free resource known as [HTML 5up](https://html5up.net/).I hope it will create a better impression, and be user friendly for employers as I go through this job hunting phase. This is still in the works and I will be making a lot of changes to it as I go and review all my projects that I've done. 
